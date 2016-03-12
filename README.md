@@ -2,7 +2,7 @@
 This branch has a few plugins loaded.
 
 ```
-	new AdminerVersionNoverify,
+		new AdminerVersionNoverify,
 		new AdminerDumpXml,
 		new AdminerTinymce,
 		new AdminerFileUpload("data/"),
